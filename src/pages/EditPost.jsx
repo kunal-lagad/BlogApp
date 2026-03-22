@@ -23,13 +23,13 @@ function EditPost() {
     }
   }, [slug, navigate])
 
-  return (
+  return post ? (
     <div className='py-6'>
       <Container>
         <PostForm post={post} />
       </Container>
     </div>
-  )
+  ) : null
 }
 
 export default EditPost
