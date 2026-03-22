@@ -31,6 +31,7 @@ A full-stack blogging platform built with **React.js, Appwrite, Redux Toolkit, a
 git clone https://github.com/VEDSTARR/BlogApp.git
 cd BlogApp
 npm install
+npm run dev
 
 ##Setup Environment Variables 
 
