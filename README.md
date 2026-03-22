@@ -21,7 +21,7 @@ A full-stack blogging platform built with **React.js, Appwrite, Redux Toolkit, a
 - **Frontend:** React.js, Redux Toolkit  
 - **Backend:** Appwrite  
 - **Editor:** TinyMCE  
-- **Styling:** CSS / Tailwind (if used)  
+- **Styling:** CSS / Tailwind   
 
 ---
 
