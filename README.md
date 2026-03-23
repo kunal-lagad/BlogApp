@@ -28,7 +28,7 @@ A full-stack blogging platform built with **React.js, Appwrite, Redux Toolkit, a
 ## ⚙️ Installation & Setup
 
 ```bash
-git https://github.com/kunal-lagad/BlogApp.git
+git clone https://github.com/kunal-lagad/BlogApp.git
 cd BlogApp
 npm install
 npm run dev
